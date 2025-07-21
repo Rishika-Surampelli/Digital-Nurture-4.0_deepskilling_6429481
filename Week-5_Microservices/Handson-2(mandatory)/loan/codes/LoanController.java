@@ -1,1 +1,0 @@
-// Placeholder for controller or filter class
